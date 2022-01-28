@@ -1,0 +1,6 @@
+numer_indeksu nazwisko imię ocena z AiSD
+1 Mękarski Bartosz 5.0
+2 Pisarski Remigiusz 4.0
+3 Radzik Jakub 5.0
+4 Nowak Mateusz 2.0
+5 Kowalska Anna 3.0

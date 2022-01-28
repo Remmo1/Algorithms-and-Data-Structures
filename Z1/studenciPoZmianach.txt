@@ -1,0 +1,6 @@
+numer_indeksu imię nazwisko ocena
+1 Bartosz Mękarski 5.0
+2 Remigiusz Pisarski 4.5
+3 Jakub Radzik 5.0
+4 Mateusz Nowak 2.0
+5 Anna Kowalska 3.0
