@@ -1,11 +1,10 @@
 # Algorithms and Data Structures
 
-Wroclaw University of Science and Technology
+## Wroclaw University of Science and Technology
 
-Applied Computer Science
+### `Applied Comupter Science`
 
-Teacher: Edward Bieleninik
-For you future students of applied computer science, so that you will not suffer like us
+### `Teacher: Edward Bieleninik`
 
 Subjects:
 Lab1: Iterators and saving to file
